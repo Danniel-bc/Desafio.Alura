@@ -1,0 +1,47 @@
+main{
+    padding: 40px 4%;
+    background-color: aqua;
+    border-radius: 50px;
+
+
+}
+.titulosite{
+   text-align: center;
+
+}
+
+
+
+.cripto button{
+    padding: 10px 32px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.descripto button{
+    padding: 10px 22px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.descripto :hover{
+    transform: scale(1.08);
+    background-color: gray;
+
+}
+.cripto :hover{
+    transform: scale(1.08);
+    background-color: gray;
+
+}
+
+.areadetexto{
+    text-align: center;
+    display: block;
+}
+
+.cripto{
+padding: 10px;
+}
+
+.descripto{
+    padding: 10px;
+}
